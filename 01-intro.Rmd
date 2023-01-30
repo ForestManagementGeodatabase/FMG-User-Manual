@@ -1,6 +1,19 @@
 # Introduction 
 
-The purpose of this guide is to outline the SOP for using the tools within the FMG.
+The Forest Management Geodatabase (FMG) is a decision support system designed by
+the U.S. Army Corps of Engineers (USACE) to aid in forest management efforts. 
+The FMG allows for foresters, biologists, and other land managers to effectively
+manage forest resources using a stand-based approach. The FMG designed around 
+data collected using a standardized forest inventory protocol and forest stand 
+lines determined by USACE district foresters. 
+
+The FMG toolbox was developed by USACE foresters and geographers to implement 
+the forest monitoring protocols established by the [Upper Mississippi River Systemic Forest Stewardship Plan](https://www.mvd.usace.army.mil/Portals/52/docs/regional_flood_risk_management/our_mississippi/UMRSystemicFSP7-26-12.pdf), [Executive Summary](https://www.mvd.usace.army.mil/Portals/52/docs/regional_flood_risk_management/our_mississippi/UMR/UMR%20Systemic%20FSP%20-%20Exec%20Summary%20Aug%202012.pdf).  
+
+The FMG is a geodatabase intended for use in Esri ArcGIS. The database is 
+contained as an Esri personal geodatabase (.gdb), and should only be viewed, 
+edited, etc. in ArcPro,ArcCatalog, ArcMap, or other Esri ArcGIS products. 
+
 
 ## A section
 

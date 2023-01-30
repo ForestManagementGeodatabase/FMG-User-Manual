@@ -1,6 +1,6 @@
 # Introduction 
 
-All chapters start with a first-level heading followed by your chapter title, like the line above. There should be only one first-level heading (`#`) per .Rmd file.
+The purpose of this guide is to outline the SOP for using the tools within the FMG.
 
 ## A section
 

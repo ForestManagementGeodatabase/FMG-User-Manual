@@ -19,6 +19,9 @@ sample-data
 prep
 create-framework
 collect-field-data
+qc-data
+qa-tools
+forester-review
 analysis
 create-summaries-1
 create-reports-1
